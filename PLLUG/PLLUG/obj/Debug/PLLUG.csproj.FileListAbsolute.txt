@@ -1,0 +1,7 @@
+C:\Users\Tapac\source\repos\PLLUG\PLLUG\bin\Debug\PLLUG.exe.config
+C:\Users\Tapac\source\repos\PLLUG\PLLUG\bin\Debug\PLLUG.exe
+C:\Users\Tapac\source\repos\PLLUG\PLLUG\bin\Debug\PLLUG.pdb
+C:\Users\Tapac\source\repos\PLLUG\PLLUG\obj\Debug\PLLUG.csprojAssemblyReference.cache
+C:\Users\Tapac\source\repos\PLLUG\PLLUG\obj\Debug\PLLUG.csproj.CoreCompileInputs.cache
+C:\Users\Tapac\source\repos\PLLUG\PLLUG\obj\Debug\PLLUG.exe
+C:\Users\Tapac\source\repos\PLLUG\PLLUG\obj\Debug\PLLUG.pdb
